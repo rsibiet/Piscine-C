@@ -1,0 +1,7 @@
+Credentials cache: API:14574
+        Principal: rsibiet@42.FR
+
+  Issued                Expires               Principal
+Aug  4 15:29:05 2015  Aug  5 01:29:05 2015  krbtgt/42.FR@42.FR
+Aug  4 15:29:12 2015  Aug  5 01:29:05 2015  nfs/zfs-student-1.42.fr@42.FR
+Aug  4 15:29:12 2015  Aug  5 01:29:05 2015  nfs/zfs-student-4.42.fr@42.FR
