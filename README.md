@@ -34,8 +34,6 @@ Sujet du j07: https://github.com/rsibiet/Piscine-C/blob/master/j07/j07.pdf
 
 Sujet du j08: https://github.com/rsibiet/Piscine-C/blob/master/j08/j08.pdf
 
-Sujet du j09: https://github.com/rsibiet/Piscine-C/blob/master/j09/j09.pdf
-
 Sujet du j10: https://github.com/rsibiet/Piscine-C/blob/master/j10/j10.pdf
 
 Sujet du j11: https://github.com/rsibiet/Piscine-C/blob/master/j11/j11.pdf
