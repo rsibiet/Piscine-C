@@ -2,10 +2,13 @@
 Piscine C from 42born2code, Paris - 08/2015
 
 Concours de sélection à l'école 42.
-Initiation au C, au shell et à Vim.
-Durée: 1 mois, 15h/jour.
+
+Initiation au C, au shell et à Vim. Durée: 1 mois, 15h/jour.
+
 Du lundi au vendredi: 1 sujet/jour
+
 Chaque vendredi: 1 examen individuel, durée: 4h.
+
 Chaque weekend: 
   - 1 colle à faire en équipe de 3.
   - 1 mini projet individuel.
