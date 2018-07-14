@@ -1,5 +1,5 @@
 # Piscine-C
-Piscine C from 42born2code, Paris - 08/2015
+Piscine C, école 42, Paris - 08/2015
 
 Concours de sélection à l'école 42.
 
